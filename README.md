@@ -1,7 +1,8 @@
 # Coder-Pro-Dark Theme
 
 ## Theme Video
-<video src="./video/Extension.mp4"  autoplay muted loop></video>
+
+https://github.com/user-attachments/assets/f9a94b6a-09b2-4fda-9b97-25fe6bf16f82
 
 ## Screenshots
 
