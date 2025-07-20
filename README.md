@@ -2,7 +2,7 @@
 
 ## Theme Video
 
-https://github.com/user-attachments/assets/f9a94b6a-09b2-4fda-9b97-25fe6bf16f82
+
 
 ## Screenshots
 
