@@ -1,9 +1,5 @@
 # Coder-Pro-Dark Theme
 
-## Theme Video
-
-
-
 ## Screenshots
 
 ## HTML
